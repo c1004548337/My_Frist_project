@@ -1,2 +1,4 @@
 # My_Frist_project
-My_Frist_project是我用git创建的第一个库
+My frist repository on GitHub
+
+I love :coffee: :pizza:, and :dancer:.
